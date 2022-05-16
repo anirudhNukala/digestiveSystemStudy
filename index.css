@@ -1,0 +1,86 @@
+.grid { 
+  display:grid;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+/*
+.link {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+.header {
+  border-bottom-color: darkcyan;
+  box-shadow: 0px 0px 0px 0px darkcyan;
+  transition: box-shadow 0.2s ease-in-out, border 0.1s ease-in-out;
+  padding: 1rem;
+  height: auto;
+  background-color: darkcyan;
+  color: #fff;
+  text-align: center
+  }
+
+  .mouth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+  }
+
+  .esophogus {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+
+  .stomach {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .small_intestine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .large_intestine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .liver {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  .rectum {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+  
+  .footer {
+    padding: 1rem;
+    height: auto;
+    background: #162249;
+    color: #fff;
+    text-align: center;
+  
+  
+
+
