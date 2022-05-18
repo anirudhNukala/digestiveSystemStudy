@@ -24,35 +24,35 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 23%;
+    width: 35%;
   }
 
   .esophogus {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%
+    width: 30%
   }
 
   .stomach {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 45%;
   }
 
   .small_intestine {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
   }
 
   .large_intestine {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
   }
 
   .liver {
@@ -91,6 +91,32 @@
     background: #162249;
     color: #fff;
     text-align: center;
+  }
+
+  .dropdown {
+    display: inline-block;
+    position: relative;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .dropdown-content a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+  }
   
   
 
