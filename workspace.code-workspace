@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Map Icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
